@@ -4,9 +4,9 @@ email: email
 url: url
 description: "A blog and a portfolio"
 author: "author"
-title: "BlogFolio"
+title: "2020OSS LAB"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: http://gracentruth.github.io
 
 # social
 github:
